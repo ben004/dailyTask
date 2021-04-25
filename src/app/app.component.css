@@ -1,0 +1,97 @@
+.toolbar_view--toolbar--2396w {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: var(--toolbar-height);
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  z-index: 7;
+  color: #fff;
+  background-color: black;
+}
+
+.val {
+  color: aqua;
+}
+
+.toolbar_view--flexibleSpace--X6lgG {
+  flex-grow: 1;
+  flex-shrink: 999;
+  pointer-events: none;
+}
+
+.center-text {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
+.side-screen {
+  width: 384px;
+  height: 768px;
+  margin: 0 24px 0 0;
+  padding: 130px 0 3px;
+  border: solid 1px var(--light-periwinkle);
+  background-color: #ffffff;
+}
+
+.input-box {
+  width: 384px;
+  height: 58px;
+  margin: 12px 0 0;
+  padding: 6px 16px;
+  background-color: #ffffff;
+}
+
+.show-array {
+  width: 516px;
+  height: 768px;
+  margin: 0 0 0 375px;
+  background-color: #ffffff;
+  border: black;
+}
+
+.add-message {
+  width: 352px;
+  height: 29px;
+  margin: 2px 0 0;
+  padding: 4px 338px 4px 8px;
+  border-radius: 2px;
+  background-color: #ffffff;
+}
+
+.full-page {
+  width: 1366px;
+  height: 768px;
+  background-color: var(--pale-grey);
+}
+
+.time {
+  width: 108px;
+  height: 19px;
+  margin: 1px 0 0;
+  font-family: NunitoSans;
+  font-size: 10px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: var(--cool-grey);
+}
+
+.value {
+  width: 452px;
+  height: 40px;
+  margin: 4px 0 0;
+  padding: 10px 275px 10px 16px;
+  border-radius: 2px;
+  border: solid 1px var(--pumpkin-orange);
+  background-color: #ffffff;
+}
+
